@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Env 
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+temp.txt
+
+#Data
+Data/Raw/
+BI_Project_TOR.md
+to_do.md
